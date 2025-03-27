@@ -38,3 +38,9 @@ out/
 
 ### Kotlin ###
 .kotlin
+
+### Spring Boot Properties ###
+application.properties
+application.yml
+application-*.properties
+application-*.yml
